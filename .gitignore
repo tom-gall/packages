@@ -1,3 +1,5 @@
 /.jiri/
 
 /gn/BUILD.gn
+
+/prebuilt/downloads
