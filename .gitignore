@@ -1,4 +1,5 @@
 /.jiri/
+*.pyc
 
 /gn/BUILD.gn
 
