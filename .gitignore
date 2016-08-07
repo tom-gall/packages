@@ -1,7 +1,4 @@
 /.jiri/
 *.pyc
 
-/gn/mkbootfs/all_binaries.gni
-/gn/mkbootfs/user.bootfs.manifest
-
 /prebuilt/downloads
